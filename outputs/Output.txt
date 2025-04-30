@@ -1,0 +1,8 @@
+Data loaded successfully
+Mean Daily Return 0.00048
+Standard Deviation 0.01329
+
+Stock Price Forecast Summary after 1 Year
+5th Percentile (Bear Case) ₹2981.53
+Median Price ₹4216.52
+95th Percentile (Bull Case) ₹5918.73
